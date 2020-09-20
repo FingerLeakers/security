@@ -34,3 +34,11 @@ CTF write-ups:
 - [Google CTF 2017 | Geokitties v2](https://github.com/numirias/ctf/blob/master/writeup-google-ctf-2017-geokitties-v2.md)
 
 - [*Many more...*](https://security.meta.stackexchange.com/search?tab=votes&q=user%3a95381%20is%3aanswer%20%5bwrite-up%5d)
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
